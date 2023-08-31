@@ -4,7 +4,7 @@ import { styles } from './src/style/Styles.js'
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hello</Text>
+      <Text>Hello World</Text>
       <View style={[
         styles.squareColor,
         { backgroundColor: '#c0392b' }
